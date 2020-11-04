@@ -1,0 +1,19 @@
+{
+    "name": "Football Club",
+    "short_name": "FootballClub",
+    "description": "Provide information about football",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#7ce8ef",
+    "theme_color": "#7ce8ef",
+    "orientation": "any",
+    "gcm_sender_id": "765977160668",
+    "icons": [
+        {
+            "src": "img/MPWA2_Maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

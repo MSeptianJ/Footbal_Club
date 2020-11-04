@@ -1,0 +1,113 @@
+/* Nav Effect */
+.waves-effect.waves-blue .waves-ripple {
+    background-color: rgba(53, 191, 253, 0.65);
+}
+.tabs .indicator {
+    background-color: rgba(53, 191, 253, 0.65);
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background: rgba(53, 191, 253, 0.2);
+}
+
+/* index Effect */
+#body-content {
+    margin: 10px auto;
+}
+
+/* Home Effect */
+.background {
+    padding: 20px 10px!important;
+    box-sizing: border-box;
+    border-radius: 20px!important;
+}
+
+/* Loading GIF*/
+.loading-gif {
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+}
+
+/* Teams */
+.card-home {
+    padding: 5px 5px 5px 0;
+}
+
+.img-home {
+    border-right: #00e5ff 1px solid;
+}
+
+.img-home img{
+    margin: 10px auto;
+    width: 100%;
+    height: 180px!important;
+}
+
+.home-description {
+    height: 100%;
+    width: 100%;
+}
+
+.title-home {
+    height: 40px;
+    margin-top: 10px ;
+    line-height: 20px;
+}
+
+.home-title {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 0;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.home-title h3 {
+    margin: 0;
+    line-height: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.home-content {
+    padding: 20px!important;
+}
+
+.home-email {
+    margin: 0;
+}
+
+
+/* FC Effects */
+.fc-img img{
+    padding: 20px;
+    background: white;
+}
+
+.fc-bookmark {
+    margin: 40px auto 30px;
+}
+
+.fc-detail {
+    margin: 30px 0;
+    background: white;
+    border-radius: 20px;
+}
+
+@media (min-width: 600px) {
+    .fc-detail {
+        margin-top: 0;
+    }
+
+}
+
+/* Standings Effects */
+.standings-logo {
+    width: 50px;
+}
+
+/* Bookmark Effects */
+.bookmark-delete {
+    margin: 5px 0 0;
+}
