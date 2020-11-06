@@ -12,6 +12,7 @@ let urlsToCache = [
     "/js/api.js",
     "/js/db.js",
     "/js/idb.js",
+    "/js/fc.js",
     "/js/main.js",
     "/js/materialize.min.js",
     "/js/sw-register.js",
